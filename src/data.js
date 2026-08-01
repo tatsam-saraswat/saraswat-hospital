@@ -10,7 +10,7 @@ export const CLINIC = {
   addressLine1: 'Near Har Prashad Inter College,',
   addressLine2: 'Bharatpur Road, Achhnera, Agra, UP',
   regNo: 'RMEE2556049',
-  hours: 'Mon–Sat: 10am – 7pm',
+  hours: 'Open all week: 9am – 7pm',
 }
 
 export const NAV_LINKS = [
