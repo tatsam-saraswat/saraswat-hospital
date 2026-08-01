@@ -8,7 +8,7 @@ export default function About() {
         <div className="about__media reveal">
           <img src={drDevendra} alt="Dr. Devendra Saraswat at the eye examination unit" />
           <div className="about__badge">
-            <strong>15+</strong>
+            <strong>25+</strong>
             <span>Years of<br />Caring Service</span>
           </div>
         </div>
