@@ -73,7 +73,7 @@ export default function Contact() {
                 <span className="contact__ic"><ClockIcon /></span>
                 <div>
                   <strong>Opening Hours</strong>
-                  <p>Monday – Saturday: 10:00 am – 7:00 pm<br />Sunday: On appointment</p>
+                  <p>Open all week: 9am - 7pm</p>
                 </div>
               </li>
             </ul>
