@@ -3,7 +3,7 @@ import { WhatsappIcon } from './Icons'
 
 export default function CtaBanner() {
   const waText = encodeURIComponent(
-    'Hello, I would like to book an appointment at Saraswat Eye & Dental Care Hospital.'
+    'Hello, I would like to book an appointment at Saraswat Eye & Dental Hospital.'
   )
   return (
     <section className="cta-banner">
