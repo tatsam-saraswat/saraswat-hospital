@@ -21,7 +21,7 @@ export default function Contact() {
     }
 
     const lines = [
-      'Hello Saraswat Eye & Dental Care Hospital,',
+      'Hello Saraswat Eye & Dental Hospital,',
       'I would like to book an appointment.',
       '',
       `Name: ${form.name}`,
@@ -79,7 +79,7 @@ export default function Contact() {
             </ul>
             <div className="contact__map">
               <iframe
-                title="Map to Saraswat Eye and Dental Care Hospital, Achhnera"
+                title="Map to Saraswat Eye and Dental Hospital, Achhnera"
                 src="https://maps.google.com/maps?q=Achhnera%2C%20Agra%2C%20Uttar%20Pradesh&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
