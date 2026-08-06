@@ -16,7 +16,7 @@ export default function About() {
           <span className="eyebrow">About Us</span>
           <h2>Trusted Eye &amp; Dental Care for Achhnera</h2>
           <p>
-            Saraswat Eye &amp; Dental Care Hospital was started with one simple goal — to bring
+            Saraswat Eye &amp; Dental Hospital was started with one simple goal — to bring
             good-quality eye and dental treatment closer to the families of Achhnera and the
             surrounding areas, so no one has to travel far for reliable care.
           </p>
