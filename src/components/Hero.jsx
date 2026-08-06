@@ -50,7 +50,7 @@ export default function Hero() {
           <div className="hero__photo">
             <img
               src={clinicFront}
-              alt="Saraswat Eye and Dental Care Hospital building on Bharatpur Road, Achhnera"
+              alt="Saraswat Eye and Dental Hospital building on Bharatpur Road, Achhnera"
             />
             <span className="hero__photo-tag">
               <PinIcon className="ic" /> Visit us in Achhnera
