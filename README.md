@@ -1,6 +1,6 @@
-# Saraswat Eye & Dental Care Hospital — Website
+# Saraswat Eye & Dental Hospital — Website
 
-A modern, responsive React website for **Saraswat Eye & Dental Care Hospital**,
+A modern, responsive React website for **Saraswat Eye & Dental Hospital**,
 Bharatpur Road, Achhnera, Agra (UP).
 
 Built with **React 18 + Vite**.
