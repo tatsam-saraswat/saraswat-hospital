@@ -13,7 +13,7 @@ export default function Gallery() {
         </div>
         <div className="gallery__grid">
           <figure className="gallery__item gallery__item--wide reveal">
-            <img src={clinicFront} alt="Front view of Saraswat Eye and Dental Care Hospital" />
+            <img src={clinicFront} alt="Front view of Saraswat Eye and Dental Hospital" />
             <figcaption>Our clinic on Bharatpur Road, Achhnera</figcaption>
           </figure>
           <figure className="gallery__item reveal">
