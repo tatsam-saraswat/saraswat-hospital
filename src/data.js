@@ -2,8 +2,8 @@
 
 export const CLINIC = {
   name: 'Saraswat',
-  fullName: 'Saraswat Eye & Dental Care Hospital',
-  tagline: 'Eye & Dental Care Hospital',
+  fullName: 'Saraswat Eye & Dental Hospital',
+  tagline: 'Eye & Dental Hospital',
   phonePrimary: '8126998011',
   phoneSecondary: '9760291474',
   whatsapp: '918126998011', // country code + number, no symbols
