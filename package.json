@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Website for Saraswat Eye & Dental Care Hospital, Achhnera, Agra",
+  "description": "Website for Saraswat Eye & Dental Hospital, Achhnera, Agra",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
