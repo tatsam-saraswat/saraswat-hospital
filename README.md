@@ -76,3 +76,4 @@ src/
                      # Gallery, CtaBanner, Faq, Contact, Footer, ...
   assets/            # clinic & treatment photos
 ```
+  
